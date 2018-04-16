@@ -9,6 +9,9 @@ namespace MVC_Lab
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+
+
+
         }
     }
 }
